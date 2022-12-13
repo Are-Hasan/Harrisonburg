@@ -14,7 +14,5 @@
 
 + make sure to check email often.
 
-### Thank you for reading, please follow the instructions ubove as written.
-=======
-### Thank you for reading, please follow the instructions ubove as written.
+### Thank you for reading, please follow the instructions above as written.
 
